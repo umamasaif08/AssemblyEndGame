@@ -1,2 +1,3 @@
 # AssemblyEndGame
-Guess the word beofe all the Languages die 
+Guess the word before all the Languages die 
+
